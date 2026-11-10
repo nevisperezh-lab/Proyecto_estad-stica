@@ -71,5 +71,3 @@ Análisis exploratorio de datos utilizando el dataset [Real Estate Price Predict
 ##  Cómo Ejecutar el Notebook
 
 1. **Clonar o descargar el repositorio:**
-   ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
